@@ -6,7 +6,7 @@ public class LinearSearch {
         //initialising the array
         int[] arrs ={32,34,4,55,743,98,72,01,37,54,71,376};
         //setting a target value to search for
-        int target =7463;
+        int target =32;
         //calling the funtion and storing it to a variable to print it
         int ans = searchAlgo(arrs , target);
         System.out.println(ans);
